@@ -5,6 +5,9 @@ contributor:
     agent_name: Luard, L. D.
     gutenberg_agent_id: '54444'
     url: http://www.gutenberg.org/2009/agents/54444
+covers:
+- cover_type: archival
+  image_path: 67761-h/images/cover.jpg
 creator:
   author:
     agent_name: Kelman, Janet Harvey
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5512
     wikipedia: https://en.wikipedia.org/wiki/John_Lang_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67761#Stories-from-the-Crusades-Stories-from-History-Series
 gutenberg_issued: '2022-04-03'
 identifiers:
   gutenberg: '67761'
